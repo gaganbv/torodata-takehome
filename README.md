@@ -25,3 +25,4 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 Change 1
 Change 2
+Change 3
